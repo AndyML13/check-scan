@@ -1,0 +1,2021 @@
+{
+    "text": "гы з\nКАССА:0004 КАССИР: - Федина\nПОКУМЕНТ НА ПРОДАЖУ 30 х\nТопор ВТАВОТНО (18 ру .\nКресло склад. АСТМЕЦС 699.00\nМангал 365 ДНЕЙ с 6 ша 309.99\nКоврик тур. 180х90%1сн\n\nКонветы ВОКОО в .33.9 2\n\nИТОГО КОП\nВЕЗНАИИЧНЫМИ\n\n99.08 НИС 20%\n=699.00 НАС 20%\n=309.99 НАС 2\n=693.99 НАС 2\n\n",
+    "boxes": [
+        {
+            "character": "a",
+            "coordinates": {
+                "x1": 378,
+                "y1": 586,
+                "x2": 384,
+                "y2": 579
+            }
+        },
+        {
+            "character": ".",
+            "coordinates": {
+                "x1": 393,
+                "y1": 586,
+                "x2": 399,
+                "y2": 577
+            }
+        },
+        {
+            "character": "K",
+            "coordinates": {
+                "x1": 233,
+                "y1": 618,
+                "x2": 241,
+                "y2": 600
+            }
+        },
+        {
+            "character": "A",
+            "coordinates": {
+                "x1": 243,
+                "y1": 618,
+                "x2": 251,
+                "y2": 600
+            }
+        },
+        {
+            "character": "C",
+            "coordinates": {
+                "x1": 253,
+                "y1": 617,
+                "x2": 260,
+                "y2": 599
+            }
+        },
+        {
+            "character": "C",
+            "coordinates": {
+                "x1": 262,
+                "y1": 617,
+                "x2": 270,
+                "y2": 599
+            }
+        },
+        {
+            "character": "A",
+            "coordinates": {
+                "x1": 272,
+                "y1": 616,
+                "x2": 280,
+                "y2": 598
+            }
+        },
+        {
+            "character": ":",
+            "coordinates": {
+                "x1": 284,
+                "y1": 616,
+                "x2": 287,
+                "y2": 604
+            }
+        },
+        {
+            "character": "0",
+            "coordinates": {
+                "x1": 291,
+                "y1": 616,
+                "x2": 299,
+                "y2": 598
+            }
+        },
+        {
+            "character": "0",
+            "coordinates": {
+                "x1": 301,
+                "y1": 615,
+                "x2": 309,
+                "y2": 597
+            }
+        },
+        {
+            "character": "0",
+            "coordinates": {
+                "x1": 310,
+                "y1": 615,
+                "x2": 318,
+                "y2": 597
+            }
+        },
+        {
+            "character": "4",
+            "coordinates": {
+                "x1": 320,
+                "y1": 614,
+                "x2": 328,
+                "y2": 597
+            }
+        },
+        {
+            "character": "K",
+            "coordinates": {
+                "x1": 349,
+                "y1": 613,
+                "x2": 357,
+                "y2": 596
+            }
+        },
+        {
+            "character": "A",
+            "coordinates": {
+                "x1": 358,
+                "y1": 613,
+                "x2": 366,
+                "y2": 595
+            }
+        },
+        {
+            "character": "C",
+            "coordinates": {
+                "x1": 367,
+                "y1": 613,
+                "x2": 375,
+                "y2": 595
+            }
+        },
+        {
+            "character": "C",
+            "coordinates": {
+                "x1": 377,
+                "y1": 612,
+                "x2": 385,
+                "y2": 595
+            }
+        },
+        {
+            "character": "H",
+            "coordinates": {
+                "x1": 386,
+                "y1": 612,
+                "x2": 394,
+                "y2": 594
+            }
+        },
+        {
+            "character": "P",
+            "coordinates": {
+                "x1": 395,
+                "y1": 611,
+                "x2": 403,
+                "y2": 594
+            }
+        },
+        {
+            "character": ":",
+            "coordinates": {
+                "x1": 407,
+                "y1": 611,
+                "x2": 410,
+                "y2": 600
+            }
+        },
+        {
+            "character": "-",
+            "coordinates": {
+                "x1": 419,
+                "y1": 603,
+                "x2": 426,
+                "y2": 601
+            }
+        },
+        {
+            "character": "d",
+            "coordinates": {
+                "x1": 437,
+                "y1": 610,
+                "x2": 442,
+                "y2": 593
+            }
+        },
+        {
+            "character": "e",
+            "coordinates": {
+                "x1": 437,
+                "y1": 610,
+                "x2": 454,
+                "y2": 593
+            }
+        },
+        {
+            "character": "(",
+            "coordinates": {
+                "x1": 234,
+                "y1": 643,
+                "x2": 242,
+                "y2": 623
+            }
+        },
+        {
+            "character": "O",
+            "coordinates": {
+                "x1": 244,
+                "y1": 641,
+                "x2": 252,
+                "y2": 623
+            }
+        },
+        {
+            "character": "K",
+            "coordinates": {
+                "x1": 253,
+                "y1": 641,
+                "x2": 262,
+                "y2": 622
+            }
+        },
+        {
+            "character": "Y",
+            "coordinates": {
+                "x1": 263,
+                "y1": 640,
+                "x2": 271,
+                "y2": 622
+            }
+        },
+        {
+            "character": "M",
+            "coordinates": {
+                "x1": 273,
+                "y1": 640,
+                "x2": 281,
+                "y2": 621
+            }
+        },
+        {
+            "character": "E",
+            "coordinates": {
+                "x1": 282,
+                "y1": 640,
+                "x2": 291,
+                "y2": 621
+            }
+        },
+        {
+            "character": "H",
+            "coordinates": {
+                "x1": 292,
+                "y1": 639,
+                "x2": 300,
+                "y2": 620
+            }
+        },
+        {
+            "character": "T",
+            "coordinates": {
+                "x1": 302,
+                "y1": 638,
+                "x2": 309,
+                "y2": 620
+            }
+        },
+        {
+            "character": "H",
+            "coordinates": {
+                "x1": 321,
+                "y1": 638,
+                "x2": 329,
+                "y2": 619
+            }
+        },
+        {
+            "character": "A",
+            "coordinates": {
+                "x1": 331,
+                "y1": 637,
+                "x2": 339,
+                "y2": 619
+            }
+        },
+        {
+            "character": "N",
+            "coordinates": {
+                "x1": 350,
+                "y1": 636,
+                "x2": 358,
+                "y2": 618
+            }
+        },
+        {
+            "character": "P",
+            "coordinates": {
+                "x1": 359,
+                "y1": 636,
+                "x2": 367,
+                "y2": 618
+            }
+        },
+        {
+            "character": "O",
+            "coordinates": {
+                "x1": 368,
+                "y1": 636,
+                "x2": 376,
+                "y2": 618
+            }
+        },
+        {
+            "character": "A",
+            "coordinates": {
+                "x1": 378,
+                "y1": 637,
+                "x2": 386,
+                "y2": 617
+            }
+        },
+        {
+            "character": "A",
+            "coordinates": {
+                "x1": 387,
+                "y1": 635,
+                "x2": 395,
+                "y2": 617
+            }
+        },
+        {
+            "character": "R",
+            "coordinates": {
+                "x1": 396,
+                "y1": 634,
+                "x2": 404,
+                "y2": 616
+            }
+        },
+        {
+            "character": "Y",
+            "coordinates": {
+                "x1": 406,
+                "y1": 634,
+                "x2": 413,
+                "y2": 616
+            }
+        },
+        {
+            "character": "3",
+            "coordinates": {
+                "x1": 424,
+                "y1": 633,
+                "x2": 432,
+                "y2": 616
+            }
+        },
+        {
+            "character": "0",
+            "coordinates": {
+                "x1": 433,
+                "y1": 633,
+                "x2": 441,
+                "y2": 615
+            }
+        },
+        {
+            "character": "T",
+            "coordinates": {
+                "x1": 235,
+                "y1": 678,
+                "x2": 243,
+                "y2": 661
+            }
+        },
+        {
+            "character": "o",
+            "coordinates": {
+                "x1": 246,
+                "y1": 679,
+                "x2": 254,
+                "y2": 666
+            }
+        },
+        {
+            "character": "n",
+            "coordinates": {
+                "x1": 255,
+                "y1": 678,
+                "x2": 263,
+                "y2": 665
+            }
+        },
+        {
+            "character": "o",
+            "coordinates": {
+                "x1": 265,
+                "y1": 678,
+                "x2": 273,
+                "y2": 665
+            }
+        },
+        {
+            "character": "p",
+            "coordinates": {
+                "x1": 275,
+                "y1": 681,
+                "x2": 283,
+                "y2": 664
+            }
+        },
+        {
+            "character": "G",
+            "coordinates": {
+                "x1": 294,
+                "y1": 676,
+                "x2": 302,
+                "y2": 658
+            }
+        },
+        {
+            "character": "I",
+            "coordinates": {
+                "x1": 304,
+                "y1": 676,
+                "x2": 311,
+                "y2": 658
+            }
+        },
+        {
+            "character": "A",
+            "coordinates": {
+                "x1": 313,
+                "y1": 675,
+                "x2": 321,
+                "y2": 657
+            }
+        },
+        {
+            "character": "R",
+            "coordinates": {
+                "x1": 322,
+                "y1": 675,
+                "x2": 331,
+                "y2": 657
+            }
+        },
+        {
+            "character": "D",
+            "coordinates": {
+                "x1": 332,
+                "y1": 675,
+                "x2": 340,
+                "y2": 657
+            }
+        },
+        {
+            "character": "I",
+            "coordinates": {
+                "x1": 342,
+                "y1": 674,
+                "x2": 349,
+                "y2": 656
+            }
+        },
+        {
+            "character": "N",
+            "coordinates": {
+                "x1": 351,
+                "y1": 674,
+                "x2": 359,
+                "y2": 656
+            }
+        },
+        {
+            "character": "O",
+            "coordinates": {
+                "x1": 360,
+                "y1": 673,
+                "x2": 368,
+                "y2": 655
+            }
+        },
+        {
+            "character": "C",
+            "coordinates": {
+                "x1": 379,
+                "y1": 672,
+                "x2": 387,
+                "y2": 654
+            }
+        },
+        {
+            "character": "L",
+            "coordinates": {
+                "x1": 388,
+                "y1": 672,
+                "x2": 396,
+                "y2": 654
+            }
+        },
+        {
+            "character": "U",
+            "coordinates": {
+                "x1": 398,
+                "y1": 671,
+                "x2": 406,
+                "y2": 653
+            }
+        },
+        {
+            "character": "B",
+            "coordinates": {
+                "x1": 407,
+                "y1": 671,
+                "x2": 415,
+                "y2": 653
+            }
+        },
+        {
+            "character": "p",
+            "coordinates": {
+                "x1": 425,
+                "y1": 673,
+                "x2": 433,
+                "y2": 657
+            }
+        },
+        {
+            "character": "y",
+            "coordinates": {
+                "x1": 434,
+                "y1": 673,
+                "x2": 442,
+                "y2": 656
+            }
+        },
+        {
+            "character": "4",
+            "coordinates": {
+                "x1": 491,
+                "y1": 667,
+                "x2": 492,
+                "y2": 664
+            }
+        },
+        {
+            "character": "9",
+            "coordinates": {
+                "x1": 491,
+                "y1": 667,
+                "x2": 492,
+                "y2": 664
+            }
+        },
+        {
+            "character": "9",
+            "coordinates": {
+                "x1": 491,
+                "y1": 667,
+                "x2": 492,
+                "y2": 664
+            }
+        },
+        {
+            "character": ".",
+            "coordinates": {
+                "x1": 491,
+                "y1": 667,
+                "x2": 494,
+                "y2": 664
+            }
+        },
+        {
+            "character": "K",
+            "coordinates": {
+                "x1": 237,
+                "y1": 703,
+                "x2": 245,
+                "y2": 685
+            }
+        },
+        {
+            "character": "p",
+            "coordinates": {
+                "x1": 247,
+                "y1": 706,
+                "x2": 255,
+                "y2": 689
+            }
+        },
+        {
+            "character": "e",
+            "coordinates": {
+                "x1": 257,
+                "y1": 702,
+                "x2": 265,
+                "y2": 689
+            }
+        },
+        {
+            "character": "c",
+            "coordinates": {
+                "x1": 266,
+                "y1": 702,
+                "x2": 274,
+                "y2": 688
+            }
+        },
+        {
+            "character": "n",
+            "coordinates": {
+                "x1": 276,
+                "y1": 701,
+                "x2": 284,
+                "y2": 688
+            }
+        },
+        {
+            "character": "o",
+            "coordinates": {
+                "x1": 286,
+                "y1": 700,
+                "x2": 294,
+                "y2": 688
+            }
+        },
+        {
+            "character": "c",
+            "coordinates": {
+                "x1": 305,
+                "y1": 699,
+                "x2": 313,
+                "y2": 686
+            }
+        },
+        {
+            "character": "k",
+            "coordinates": {
+                "x1": 314,
+                "y1": 699,
+                "x2": 322,
+                "y2": 686
+            }
+        },
+        {
+            "character": "n",
+            "coordinates": {
+                "x1": 324,
+                "y1": 699,
+                "x2": 332,
+                "y2": 685
+            }
+        },
+        {
+            "character": "a",
+            "coordinates": {
+                "x1": 334,
+                "y1": 698,
+                "x2": 341,
+                "y2": 685
+            }
+        },
+        {
+            "character": "g",
+            "coordinates": {
+                "x1": 343,
+                "y1": 699,
+                "x2": 351,
+                "y2": 684
+            }
+        },
+        {
+            "character": ".",
+            "coordinates": {
+                "x1": 354,
+                "y1": 697,
+                "x2": 357,
+                "y2": 694
+            }
+        },
+        {
+            "character": "A",
+            "coordinates": {
+                "x1": 362,
+                "y1": 696,
+                "x2": 369,
+                "y2": 679
+            }
+        },
+        {
+            "character": "C",
+            "coordinates": {
+                "x1": 371,
+                "y1": 696,
+                "x2": 378,
+                "y2": 679
+            }
+        },
+        {
+            "character": "T",
+            "coordinates": {
+                "x1": 380,
+                "y1": 695,
+                "x2": 387,
+                "y2": 678
+            }
+        },
+        {
+            "character": "I",
+            "coordinates": {
+                "x1": 390,
+                "y1": 695,
+                "x2": 396,
+                "y2": 677
+            }
+        },
+        {
+            "character": "N",
+            "coordinates": {
+                "x1": 398,
+                "y1": 694,
+                "x2": 406,
+                "y2": 677
+            }
+        },
+        {
+            "character": "E",
+            "coordinates": {
+                "x1": 408,
+                "y1": 694,
+                "x2": 415,
+                "y2": 676
+            }
+        },
+        {
+            "character": "L",
+            "coordinates": {
+                "x1": 417,
+                "y1": 694,
+                "x2": 424,
+                "y2": 676
+            }
+        },
+        {
+            "character": "L",
+            "coordinates": {
+                "x1": 426,
+                "y1": 693,
+                "x2": 434,
+                "y2": 676
+            }
+        },
+        {
+            "character": "6",
+            "coordinates": {
+                "x1": 462,
+                "y1": 691,
+                "x2": 470,
+                "y2": 674
+            }
+        },
+        {
+            "character": "9",
+            "coordinates": {
+                "x1": 471,
+                "y1": 691,
+                "x2": 479,
+                "y2": 673
+            }
+        },
+        {
+            "character": "9",
+            "coordinates": {
+                "x1": 480,
+                "y1": 690,
+                "x2": 488,
+                "y2": 673
+            }
+        },
+        {
+            "character": ".",
+            "coordinates": {
+                "x1": 491,
+                "y1": 690,
+                "x2": 494,
+                "y2": 686
+            }
+        },
+        {
+            "character": "0",
+            "coordinates": {
+                "x1": 498,
+                "y1": 689,
+                "x2": 506,
+                "y2": 672
+            }
+        },
+        {
+            "character": "0",
+            "coordinates": {
+                "x1": 507,
+                "y1": 689,
+                "x2": 514,
+                "y2": 672
+            }
+        },
+        {
+            "character": "W",
+            "coordinates": {
+                "x1": 238,
+                "y1": 727,
+                "x2": 247,
+                "y2": 709
+            }
+        },
+        {
+            "character": "a",
+            "coordinates": {
+                "x1": 248,
+                "y1": 726,
+                "x2": 256,
+                "y2": 713
+            }
+        },
+        {
+            "character": "w",
+            "coordinates": {
+                "x1": 258,
+                "y1": 726,
+                "x2": 266,
+                "y2": 712
+            }
+        },
+        {
+            "character": "r",
+            "coordinates": {
+                "x1": 267,
+                "y1": 725,
+                "x2": 275,
+                "y2": 711
+            }
+        },
+        {
+            "character": "a",
+            "coordinates": {
+                "x1": 277,
+                "y1": 725,
+                "x2": 295,
+                "y2": 710
+            }
+        },
+        {
+            "character": "3",
+            "coordinates": {
+                "x1": 306,
+                "y1": 722,
+                "x2": 314,
+                "y2": 705
+            }
+        },
+        {
+            "character": "6",
+            "coordinates": {
+                "x1": 315,
+                "y1": 722,
+                "x2": 323,
+                "y2": 704
+            }
+        },
+        {
+            "character": "5",
+            "coordinates": {
+                "x1": 325,
+                "y1": 721,
+                "x2": 333,
+                "y2": 704
+            }
+        },
+        {
+            "character": "A",
+            "coordinates": {
+                "x1": 344,
+                "y1": 722,
+                "x2": 352,
+                "y2": 703
+            }
+        },
+        {
+            "character": "H",
+            "coordinates": {
+                "x1": 353,
+                "y1": 720,
+                "x2": 361,
+                "y2": 702
+            }
+        },
+        {
+            "character": "E",
+            "coordinates": {
+                "x1": 362,
+                "y1": 720,
+                "x2": 370,
+                "y2": 702
+            }
+        },
+        {
+            "character": "M",
+            "coordinates": {
+                "x1": 371,
+                "y1": 719,
+                "x2": 379,
+                "y2": 700
+            }
+        },
+        {
+            "character": "c",
+            "coordinates": {
+                "x1": 390,
+                "y1": 718,
+                "x2": 398,
+                "y2": 705
+            }
+        },
+        {
+            "character": "6",
+            "coordinates": {
+                "x1": 408,
+                "y1": 717,
+                "x2": 416,
+                "y2": 699
+            }
+        },
+        {
+            "character": "w",
+            "coordinates": {
+                "x1": 426,
+                "y1": 716,
+                "x2": 434,
+                "y2": 703
+            }
+        },
+        {
+            "character": "a",
+            "coordinates": {
+                "x1": 436,
+                "y1": 715,
+                "x2": 443,
+                "y2": 702
+            }
+        },
+        {
+            "character": "3",
+            "coordinates": {
+                "x1": 463,
+                "y1": 714,
+                "x2": 470,
+                "y2": 697
+            }
+        },
+        {
+            "character": "0",
+            "coordinates": {
+                "x1": 472,
+                "y1": 713,
+                "x2": 479,
+                "y2": 696
+            }
+        },
+        {
+            "character": "9",
+            "coordinates": {
+                "x1": 481,
+                "y1": 713,
+                "x2": 488,
+                "y2": 696
+            }
+        },
+        {
+            "character": ".",
+            "coordinates": {
+                "x1": 491,
+                "y1": 712,
+                "x2": 494,
+                "y2": 709
+            }
+        },
+        {
+            "character": "9",
+            "coordinates": {
+                "x1": 498,
+                "y1": 712,
+                "x2": 506,
+                "y2": 695
+            }
+        },
+        {
+            "character": "9",
+            "coordinates": {
+                "x1": 507,
+                "y1": 711,
+                "x2": 515,
+                "y2": 694
+            }
+        },
+        {
+            "character": "K",
+            "coordinates": {
+                "x1": 239,
+                "y1": 751,
+                "x2": 248,
+                "y2": 732
+            }
+        },
+        {
+            "character": "o",
+            "coordinates": {
+                "x1": 249,
+                "y1": 750,
+                "x2": 257,
+                "y2": 737
+            }
+        },
+        {
+            "character": "p",
+            "coordinates": {
+                "x1": 259,
+                "y1": 750,
+                "x2": 267,
+                "y2": 736
+            }
+        },
+        {
+            "character": "p",
+            "coordinates": {
+                "x1": 269,
+                "y1": 752,
+                "x2": 276,
+                "y2": 735
+            }
+        },
+        {
+            "character": "u",
+            "coordinates": {
+                "x1": 278,
+                "y1": 748,
+                "x2": 286,
+                "y2": 734
+            }
+        },
+        {
+            "character": "k",
+            "coordinates": {
+                "x1": 288,
+                "y1": 747,
+                "x2": 296,
+                "y2": 734
+            }
+        },
+        {
+            "character": "t",
+            "coordinates": {
+                "x1": 307,
+                "y1": 746,
+                "x2": 314,
+                "y2": 732
+            }
+        },
+        {
+            "character": "y",
+            "coordinates": {
+                "x1": 316,
+                "y1": 749,
+                "x2": 324,
+                "y2": 732
+            }
+        },
+        {
+            "character": "p",
+            "coordinates": {
+                "x1": 326,
+                "y1": 748,
+                "x2": 334,
+                "y2": 731
+            }
+        },
+        {
+            "character": ".",
+            "coordinates": {
+                "x1": 337,
+                "y1": 743,
+                "x2": 340,
+                "y2": 741
+            }
+        },
+        {
+            "character": "1",
+            "coordinates": {
+                "x1": 349,
+                "y1": 743,
+                "x2": 352,
+                "y2": 726
+            }
+        },
+        {
+            "character": "8",
+            "coordinates": {
+                "x1": 354,
+                "y1": 742,
+                "x2": 362,
+                "y2": 726
+            }
+        },
+        {
+            "character": "0",
+            "coordinates": {
+                "x1": 363,
+                "y1": 742,
+                "x2": 371,
+                "y2": 725
+            }
+        },
+        {
+            "character": "x",
+            "coordinates": {
+                "x1": 372,
+                "y1": 742,
+                "x2": 380,
+                "y2": 728
+            }
+        },
+        {
+            "character": "5",
+            "coordinates": {
+                "x1": 381,
+                "y1": 741,
+                "x2": 389,
+                "y2": 723
+            }
+        },
+        {
+            "character": "0",
+            "coordinates": {
+                "x1": 391,
+                "y1": 740,
+                "x2": 398,
+                "y2": 723
+            }
+        },
+        {
+            "character": "x",
+            "coordinates": {
+                "x1": 400,
+                "y1": 740,
+                "x2": 407,
+                "y2": 727
+            }
+        },
+        {
+            "character": "1",
+            "coordinates": {
+                "x1": 410,
+                "y1": 739,
+                "x2": 417,
+                "y2": 722
+            }
+        },
+        {
+            "character": "c",
+            "coordinates": {
+                "x1": 418,
+                "y1": 739,
+                "x2": 426,
+                "y2": 726
+            }
+        },
+        {
+            "character": "H",
+            "coordinates": {
+                "x1": 427,
+                "y1": 738,
+                "x2": 435,
+                "y2": 725
+            }
+        },
+        {
+            "character": "6",
+            "coordinates": {
+                "x1": 463,
+                "y1": 736,
+                "x2": 470,
+                "y2": 719
+            }
+        },
+        {
+            "character": "9",
+            "coordinates": {
+                "x1": 472,
+                "y1": 735,
+                "x2": 479,
+                "y2": 718
+            }
+        },
+        {
+            "character": "9",
+            "coordinates": {
+                "x1": 481,
+                "y1": 735,
+                "x2": 488,
+                "y2": 718
+            }
+        },
+        {
+            "character": ".",
+            "coordinates": {
+                "x1": 492,
+                "y1": 734,
+                "x2": 494,
+                "y2": 731
+            }
+        },
+        {
+            "character": "9",
+            "coordinates": {
+                "x1": 499,
+                "y1": 734,
+                "x2": 506,
+                "y2": 717
+            }
+        },
+        {
+            "character": "9",
+            "coordinates": {
+                "x1": 508,
+                "y1": 734,
+                "x2": 515,
+                "y2": 716
+            }
+        },
+        {
+            "character": "K",
+            "coordinates": {
+                "x1": 240,
+                "y1": 775,
+                "x2": 249,
+                "y2": 756
+            }
+        },
+        {
+            "character": "o",
+            "coordinates": {
+                "x1": 251,
+                "y1": 774,
+                "x2": 258,
+                "y2": 760
+            }
+        },
+        {
+            "character": "x",
+            "coordinates": {
+                "x1": 260,
+                "y1": 773,
+                "x2": 268,
+                "y2": 759
+            }
+        },
+        {
+            "character": "g",
+            "coordinates": {
+                "x1": 270,
+                "y1": 776,
+                "x2": 278,
+                "y2": 759
+            }
+        },
+        {
+            "character": "e",
+            "coordinates": {
+                "x1": 279,
+                "y1": 771,
+                "x2": 287,
+                "y2": 758
+            }
+        },
+        {
+            "character": "T",
+            "coordinates": {
+                "x1": 289,
+                "y1": 770,
+                "x2": 296,
+                "y2": 757
+            }
+        },
+        {
+            "character": "t",
+            "coordinates": {
+                "x1": 297,
+                "y1": 770,
+                "x2": 306,
+                "y2": 756
+            }
+        },
+        {
+            "character": "R",
+            "coordinates": {
+                "x1": 317,
+                "y1": 768,
+                "x2": 325,
+                "y2": 750
+            }
+        },
+        {
+            "character": "O",
+            "coordinates": {
+                "x1": 326,
+                "y1": 768,
+                "x2": 334,
+                "y2": 750
+            }
+        },
+        {
+            "character": "N",
+            "coordinates": {
+                "x1": 336,
+                "y1": 767,
+                "x2": 344,
+                "y2": 749
+            }
+        },
+        {
+            "character": "D",
+            "coordinates": {
+                "x1": 345,
+                "y1": 766,
+                "x2": 353,
+                "y2": 749
+            }
+        },
+        {
+            "character": "O",
+            "coordinates": {
+                "x1": 354,
+                "y1": 765,
+                "x2": 362,
+                "y2": 748
+            }
+        },
+        {
+            "character": "3",
+            "coordinates": {
+                "x1": 472,
+                "y1": 758,
+                "x2": 479,
+                "y2": 741
+            }
+        },
+        {
+            "character": "3",
+            "coordinates": {
+                "x1": 481,
+                "y1": 757,
+                "x2": 488,
+                "y2": 740
+            }
+        },
+        {
+            "character": ".",
+            "coordinates": {
+                "x1": 492,
+                "y1": 757,
+                "x2": 494,
+                "y2": 753
+            }
+        },
+        {
+            "character": "9",
+            "coordinates": {
+                "x1": 499,
+                "y1": 756,
+                "x2": 506,
+                "y2": 739
+            }
+        },
+        {
+            "character": "9",
+            "coordinates": {
+                "x1": 508,
+                "y1": 756,
+                "x2": 515,
+                "y2": 739
+            }
+        },
+        {
+            "character": "x",
+            "coordinates": {
+                "x1": 560,
+                "y1": 661,
+                "x2": 567,
+                "y2": 651
+            }
+        },
+        {
+            "character": "1",
+            "coordinates": {
+                "x1": 570,
+                "y1": 663,
+                "x2": 576,
+                "y2": 646
+            }
+        },
+        {
+            "character": "=",
+            "coordinates": {
+                "x1": 613,
+                "y1": 661,
+                "x2": 614,
+                "y2": 642
+            }
+        },
+        {
+            "character": "4",
+            "coordinates": {
+                "x1": 613,
+                "y1": 661,
+                "x2": 614,
+                "y2": 642
+            }
+        },
+        {
+            "character": "9",
+            "coordinates": {
+                "x1": 613,
+                "y1": 661,
+                "x2": 620,
+                "y2": 644
+            }
+        },
+        {
+            "character": "9",
+            "coordinates": {
+                "x1": 621,
+                "y1": 661,
+                "x2": 628,
+                "y2": 644
+            }
+        },
+        {
+            "character": ".",
+            "coordinates": {
+                "x1": 632,
+                "y1": 660,
+                "x2": 634,
+                "y2": 657
+            }
+        },
+        {
+            "character": "0",
+            "coordinates": {
+                "x1": 639,
+                "y1": 660,
+                "x2": 646,
+                "y2": 643
+            }
+        },
+        {
+            "character": "0",
+            "coordinates": {
+                "x1": 647,
+                "y1": 659,
+                "x2": 654,
+                "y2": 642
+            }
+        },
+        {
+            "character": "H",
+            "coordinates": {
+                "x1": 665,
+                "y1": 658,
+                "x2": 672,
+                "y2": 642
+            }
+        },
+        {
+            "character": "A",
+            "coordinates": {
+                "x1": 673,
+                "y1": 660,
+                "x2": 680,
+                "y2": 641
+            }
+        },
+        {
+            "character": "C",
+            "coordinates": {
+                "x1": 682,
+                "y1": 657,
+                "x2": 688,
+                "y2": 641
+            }
+        },
+        {
+            "character": "2",
+            "coordinates": {
+                "x1": 699,
+                "y1": 657,
+                "x2": 705,
+                "y2": 640
+            }
+        },
+        {
+            "character": "0",
+            "coordinates": {
+                "x1": 707,
+                "y1": 656,
+                "x2": 723,
+                "y2": 639
+            }
+        },
+        {
+            "character": "x",
+            "coordinates": {
+                "x1": 560,
+                "y1": 683,
+                "x2": 567,
+                "y2": 673
+            }
+        },
+        {
+            "character": "1",
+            "coordinates": {
+                "x1": 570,
+                "y1": 686,
+                "x2": 576,
+                "y2": 669
+            }
+        },
+        {
+            "character": "6",
+            "coordinates": {
+                "x1": 595,
+                "y1": 684,
+                "x2": 611,
+                "y2": 667
+            }
+        },
+        {
+            "character": "9",
+            "coordinates": {
+                "x1": 612,
+                "y1": 683,
+                "x2": 619,
+                "y2": 667
+            }
+        },
+        {
+            "character": "9",
+            "coordinates": {
+                "x1": 621,
+                "y1": 683,
+                "x2": 628,
+                "y2": 666
+            }
+        },
+        {
+            "character": ".",
+            "coordinates": {
+                "x1": 631,
+                "y1": 682,
+                "x2": 634,
+                "y2": 679
+            }
+        },
+        {
+            "character": "0",
+            "coordinates": {
+                "x1": 638,
+                "y1": 682,
+                "x2": 645,
+                "y2": 665
+            }
+        },
+        {
+            "character": "0",
+            "coordinates": {
+                "x1": 647,
+                "y1": 681,
+                "x2": 654,
+                "y2": 665
+            }
+        },
+        {
+            "character": "H",
+            "coordinates": {
+                "x1": 664,
+                "y1": 680,
+                "x2": 671,
+                "y2": 664
+            }
+        },
+        {
+            "character": "A",
+            "coordinates": {
+                "x1": 673,
+                "y1": 682,
+                "x2": 680,
+                "y2": 663
+            }
+        },
+        {
+            "character": "C",
+            "coordinates": {
+                "x1": 681,
+                "y1": 680,
+                "x2": 688,
+                "y2": 664
+            }
+        },
+        {
+            "character": "2",
+            "coordinates": {
+                "x1": 698,
+                "y1": 679,
+                "x2": 705,
+                "y2": 663
+            }
+        },
+        {
+            "character": "0",
+            "coordinates": {
+                "x1": 707,
+                "y1": 679,
+                "x2": 714,
+                "y2": 662
+            }
+        },
+        {
+            "character": "2",
+            "coordinates": {
+                "x1": 716,
+                "y1": 679,
+                "x2": 723,
+                "y2": 662
+            }
+        },
+        {
+            "character": "x",
+            "coordinates": {
+                "x1": 560,
+                "y1": 706,
+                "x2": 567,
+                "y2": 696
+            }
+        },
+        {
+            "character": "1",
+            "coordinates": {
+                "x1": 570,
+                "y1": 708,
+                "x2": 576,
+                "y2": 691
+            }
+        },
+        {
+            "character": "=",
+            "coordinates": {
+                "x1": 595,
+                "y1": 702,
+                "x2": 602,
+                "y2": 695
+            }
+        },
+        {
+            "character": "3",
+            "coordinates": {
+                "x1": 604,
+                "y1": 706,
+                "x2": 611,
+                "y2": 689
+            }
+        },
+        {
+            "character": "0",
+            "coordinates": {
+                "x1": 612,
+                "y1": 706,
+                "x2": 619,
+                "y2": 689
+            }
+        },
+        {
+            "character": "9",
+            "coordinates": {
+                "x1": 621,
+                "y1": 705,
+                "x2": 628,
+                "y2": 689
+            }
+        },
+        {
+            "character": ".",
+            "coordinates": {
+                "x1": 631,
+                "y1": 704,
+                "x2": 634,
+                "y2": 701
+            }
+        },
+        {
+            "character": "9",
+            "coordinates": {
+                "x1": 638,
+                "y1": 704,
+                "x2": 645,
+                "y2": 688
+            }
+        },
+        {
+            "character": "9",
+            "coordinates": {
+                "x1": 647,
+                "y1": 703,
+                "x2": 654,
+                "y2": 687
+            }
+        },
+        {
+            "character": "H",
+            "coordinates": {
+                "x1": 664,
+                "y1": 703,
+                "x2": 671,
+                "y2": 686
+            }
+        },
+        {
+            "character": "A",
+            "coordinates": {
+                "x1": 672,
+                "y1": 704,
+                "x2": 679,
+                "y2": 686
+            }
+        },
+        {
+            "character": "C",
+            "coordinates": {
+                "x1": 681,
+                "y1": 702,
+                "x2": 688,
+                "y2": 686
+            }
+        },
+        {
+            "character": "2",
+            "coordinates": {
+                "x1": 698,
+                "y1": 702,
+                "x2": 706,
+                "y2": 685
+            }
+        },
+        {
+            "character": "0",
+            "coordinates": {
+                "x1": 707,
+                "y1": 701,
+                "x2": 715,
+                "y2": 684
+            }
+        },
+        {
+            "character": "2",
+            "coordinates": {
+                "x1": 716,
+                "y1": 701,
+                "x2": 723,
+                "y2": 684
+            }
+        },
+        {
+            "character": "x",
+            "coordinates": {
+                "x1": 560,
+                "y1": 727,
+                "x2": 567,
+                "y2": 718
+            }
+        },
+        {
+            "character": "}",
+            "coordinates": {
+                "x1": 570,
+                "y1": 730,
+                "x2": 576,
+                "y2": 713
+            }
+        },
+        {
+            "character": "=",
+            "coordinates": {
+                "x1": 595,
+                "y1": 724,
+                "x2": 602,
+                "y2": 717
+            }
+        },
+        {
+            "character": "6",
+            "coordinates": {
+                "x1": 603,
+                "y1": 728,
+                "x2": 610,
+                "y2": 711
+            }
+        },
+        {
+            "character": "9",
+            "coordinates": {
+                "x1": 612,
+                "y1": 727,
+                "x2": 619,
+                "y2": 711
+            }
+        },
+        {
+            "character": "9",
+            "coordinates": {
+                "x1": 621,
+                "y1": 727,
+                "x2": 628,
+                "y2": 710
+            }
+        },
+        {
+            "character": ".",
+            "coordinates": {
+                "x1": 631,
+                "y1": 726,
+                "x2": 634,
+                "y2": 723
+            }
+        },
+        {
+            "character": "9",
+            "coordinates": {
+                "x1": 638,
+                "y1": 726,
+                "x2": 645,
+                "y2": 709
+            }
+        },
+        {
+            "character": "9",
+            "coordinates": {
+                "x1": 646,
+                "y1": 726,
+                "x2": 654,
+                "y2": 709
+            }
+        },
+        {
+            "character": "H",
+            "coordinates": {
+                "x1": 664,
+                "y1": 725,
+                "x2": 671,
+                "y2": 708
+            }
+        },
+        {
+            "character": "A",
+            "coordinates": {
+                "x1": 672,
+                "y1": 726,
+                "x2": 680,
+                "y2": 708
+            }
+        },
+        {
+            "character": "C",
+            "coordinates": {
+                "x1": 681,
+                "y1": 724,
+                "x2": 688,
+                "y2": 708
+            }
+        },
+        {
+            "character": "2",
+            "coordinates": {
+                "x1": 699,
+                "y1": 724,
+                "x2": 706,
+                "y2": 707
+            }
+        },
+        {
+            "character": "0",
+            "coordinates": {
+                "x1": 708,
+                "y1": 724,
+                "x2": 715,
+                "y2": 707
+            }
+        },
+        {
+            "character": "2",
+            "coordinates": {
+                "x1": 717,
+                "y1": 724,
+                "x2": 725,
+                "y2": 707
+            }
+        },
+        {
+            "character": "7",
+            "coordinates": {
+                "x1": 621,
+                "y1": 749,
+                "x2": 628,
+                "y2": 732
+            }
+        },
+        {
+            "character": ".",
+            "coordinates": {
+                "x1": 631,
+                "y1": 748,
+                "x2": 633,
+                "y2": 746
+            }
+        },
+        {
+            "character": "9",
+            "coordinates": {
+                "x1": 638,
+                "y1": 749,
+                "x2": 645,
+                "y2": 731
+            }
+        },
+        {
+            "character": "3",
+            "coordinates": {
+                "x1": 646,
+                "y1": 748,
+                "x2": 654,
+                "y2": 731
+            }
+        },
+        {
+            "character": "H",
+            "coordinates": {
+                "x1": 664,
+                "y1": 747,
+                "x2": 671,
+                "y2": 731
+            }
+        },
+        {
+            "character": "A",
+            "coordinates": {
+                "x1": 673,
+                "y1": 749,
+                "x2": 680,
+                "y2": 730
+            }
+        },
+        {
+            "character": "C",
+            "coordinates": {
+                "x1": 682,
+                "y1": 747,
+                "x2": 689,
+                "y2": 730
+            }
+        },
+        {
+            "character": "2",
+            "coordinates": {
+                "x1": 700,
+                "y1": 747,
+                "x2": 707,
+                "y2": 730
+            }
+        },
+        {
+            "character": "0",
+            "coordinates": {
+                "x1": 709,
+                "y1": 747,
+                "x2": 716,
+                "y2": 730
+            }
+        },
+        {
+            "character": "2",
+            "coordinates": {
+                "x1": 718,
+                "y1": 747,
+                "x2": 725,
+                "y2": 729
+            }
+        },
+        {
+            "character": "~",
+            "coordinates": {
+                "x1": 0,
+                "y1": 1280,
+                "x2": 960,
+                "y2": 0
+            }
+        }
+    ]
+}
